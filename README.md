@@ -22,5 +22,19 @@ This repository contains the official PyTorch implementation of "*Real Noise Dec
 
 ## News :sparkles:
 
-- [ ] The code and datasets will be released soon.
+- [ ] The code will be released soon.
+- [x] 2026-02-03: The dataset [MEHSI](https://huggingface.co/datasets/YingkaiZhang/MEHSI) and its [README](./dataset/README.md) have been released.
 - [x] 2025-11-21: Upload for [Arxiv](https://arxiv.org/abs/2511.17196).
+
+
+## Citation
+
+If you find our work useful for your research, please consider citing the following paper
+
+```bibtex
+@article{zhang2025real,
+  title={Real Noise Decoupling for Hyperspectral Image Denoising},
+  author={Zhang, Yingkai and Zhang, Tao and Nie, Jing and Fu, Ying},
+  journal={arXiv preprint arXiv:2511.17196},
+  year={2025}
+}
