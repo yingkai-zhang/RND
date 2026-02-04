@@ -9,9 +9,10 @@ The collected clean HSIs are averaged, and the paired data are manually aligned 
 We randomly select 273 pairs (91 scenes) for training and the remaining 30 (10 scenes) for testing.
 
 ## Train
-We crop overlapped $128\times128$ spatial regions from the paired
-data for training.
+We crop overlapped $128\times128$ spatial regions from the paired data for training.
 
 ## Inference
-We crop center $512\times512$ spatial region from the paired
-data for test.
+We crop center $512\times512$ spatial region from the paired data for test.
+
+## Process
+You can follow [SERT](https://github.com/MyuLi/SERT) to load HSIs.
