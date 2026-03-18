@@ -12,7 +12,7 @@
 
   <h3 align="center">
     <a href="https://github.com/yingkai-zhang/RND/" target='_blank'><img src="https://img.shields.io/badge/🐳-Project%20Page-blue"></a>
-    <!-- <a href="https://link.springer.com/article/10.1007/s11263-025-02466-8" target='_blank'><img src="https://img.shields.io/badge/Springer-s11263-green.svg"></a> -->
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38291" target='_blank'><img src="https://img.shields.io/badge/AAAI-38291-green.svg"></a>
     <a href="https://arxiv.org/abs/2511.17196" target='_blank'><img src="https://img.shields.io/badge/arXiv-2511.17196-b31b1b.svg"></a>
   </h3>
 
@@ -32,6 +32,16 @@ This repository contains the official PyTorch implementation of "*Real Noise Dec
 If you find our work useful for your research, please consider citing the following paper
 
 ```bibtex
+@inproceedings{zhang2026real,
+  title={Real Noise Decoupling for Hyperspectral Image Denoising},
+  author={Zhang, Yingkai and Zhang, Tao and Nie, Jing and Fu, Ying},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={15},
+  pages={12925-12933},
+  year={2026}
+}
+
 @article{zhang2025real,
   title={Real Noise Decoupling for Hyperspectral Image Denoising},
   author={Zhang, Yingkai and Zhang, Tao and Nie, Jing and Fu, Ying},
